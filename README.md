@@ -79,8 +79,8 @@ The history of computing is divided into five eras, each representing a major te
 ![An image showing the technological revolution] (https://imgs.search.brave.com/rawzfE-m7XMnZuC7M6kFpNd0l3uC27wtHDH6ItqotNs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzg0LzMzLzAx/LzM2MF9GXzg0MzMw/MTc4X3o3UnRtOXhT/VEJra2s1N2c4MzVw/ODZjd1N3a1VMUkdC/LmpwZw)
 ## Tools Used
 This PF in-lab Assignment was made by utilizing the following developers tools:
-* **Version Control:** [Git] (https://git-scm.com/)
-* **Cloud Platform:** [GitHub] (https://github.com/)
+* **Version Control:** [Git](https://git-scm.com/)
+* **Cloud Platform:** [GitHub](https://github.com/)
 * **Formatting:** Markdown
 
 ### Project Flowchart
