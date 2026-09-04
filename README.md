@@ -68,11 +68,11 @@ Based on Data Handling, we have the following type of computers
 ## History of Computers
 The history of computing is divided into five eras, each representing a major technological development:
 
-1. ** 1st Generation (1940-1956): ** <ins>Technological Development: </ins> Vacuum tubes.
-2. ** 2nd Generation (1956-1963): ** <ins>Technological Development: </ins> Transistors.
-3. ** 3rd Generation (1963-1971): ** <ins>Technological Development: </ins> Integrated Circuits (ICs).
-4. ** 4th Generation (1971-Present): ** <ins>Technological Development: </ins> Microprocessors (VLSI).
-5. ** 5th Generation (Present and Beyond): ** <ins>Technological Development: </ins> Artificial Intelligence.
+1. **1st Generation (1940-1956):** <ins>Technological Development: </ins> Vacuum tubes.
+2. **2nd Generation (1956-1963):** <ins>Technological Development: </ins> Transistors.
+3. **3rd Generation (1963-1971):** <ins>Technological Development: </ins> Integrated Circuits (ICs).
+4. **4th Generation (1971-Present):** <ins>Technological Development: </ins> Microprocessors (VLSI).
+5. **5th Generation (Present and Beyond):** <ins>Technological Development: </ins> Artificial Intelligence.
 
 ## Tools Used
 This PF in-lab Assignment was made by utilizing the following developers tools:
